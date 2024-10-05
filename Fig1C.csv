@@ -1,0 +1,27 @@
+Repeat 1,,,,,
+,,"At OD 0.1, relative number of colonies of:",,"At OD 0.5, relative number of colonies of:",
+,,Cooperator,Cheater,Cooperator,Cheater
+,Cooperator,505,0,590,0
+,Cheater Introduced to Culture of Cooperators,570,6,582,8
+,Cheater ,0,573,NA,NA
+,Cooperator Introduced to Culture of Cheaters,7,602,4,573
+,,,,,
+Repeat 2,,,,,
+,,"At OD 0.1, relative number of colonies of:",,"At OD 0.5, relative number of colonies of:",
+,,Cooperator,Cheater,Cooperator,Cheater
+,Cooperator,492,0,539,0
+,Cheater Introduced to Culture of Cooperators,445,4,552,7
+,Cheater ,0,541,NA,NA
+,Cooperator Introduced to Culture of Cheaters,6,575,5,549
+,,,,,
+Repeat 3,,,,,
+,,"At OD 0.1, relative number of colonies of:",,"At OD 0.5, relative number of colonies of:",
+,,Cooperator,Cheater,Cooperator,Cheater
+,Cooperator,565,0,592,0
+,Cheater Introduced to Culture of Cooperators,489,5,583,9
+,Cheater ,0,512,NA,NA
+,Cooperator Introduced to Culture of Cheaters,5,509,4,589
+,,,,,
+,,,,,
+NA: Culture did not reach OD 0.5,,,,,
+"At OD 0.1, 5 times the volume was plated as compared to OD 0.5. ",,,,,

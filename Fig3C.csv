@@ -1,0 +1,39 @@
+Prior to diversification.,,,,,,,,,,
+,,Repeat 1,Repeat 2,Repeat 3,,,,,,
+,Count at OD 0.1,559,482,514,,,,,,
+,Count at OD 0.5,578,476,521,,,,,,
+,,,,,,,,,,
+"At OD 0.1, 5 times the volume was plated as compared to OD 0.5. ",,,,,,,,,,
+,,,,,,,,,,
+Post diversification.,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,Repeat 1,,,,,
+,,,,,,,"At OD 0.1, relative number of colonies of:",,"At OD 0.5, relative number of colonies of:",
+,,,,,,,Cooperator,Cheater,Cooperator,Cheater
+,,,,,,Cooperator,518,NA,509,NA
+,,,,,,Cheater Introduced to Culture of Cooperators,527,4,602,6
+,,,,,,Cheater ,NA,502,NA,513
+,,,,,,Cooperator Introduced to Culture of Cheaters,5,582,4,579
+,,,,,,,,,,
+,,,,,Repeat 2,,,,,
+,,,,,,,"At OD 0.1, relative number of colonies of:",,"At OD 0.5, relative number of colonies of:",
+,,,,,,,Cooperator,Cheater,Cooperator,Cheater
+,,,,,,Cooperator,517,NA,536,NA
+,,,,,,Cheater Introduced to Culture of Cooperators,513,4,678,7
+,,,,,,Cheater ,NA,482,NA,496
+,,,,,,Cooperator Introduced to Culture of Cheaters,5,537,5,674
+,,,,,,,,,,
+,,,,,Repeat 3,,,,,
+,,,,,,,"At OD 0.1, relative number of colonies of:",,"At OD 0.5, relative number of colonies of:",
+,,,,,,,Cooperator,Cheater,Cooperator,Cheater
+,,,,,,Cooperator,552,NA,542,NA
+,,,,,,Cheater Introduced to Culture of Cooperators,541,5,622,7
+,,,,,,Cheater ,NA,518,NA,529
+,,,,,,Cooperator Introduced to Culture of Cheaters,7,618,7,746
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,NA: Culture did not reach OD 0.5,,,,,
+,,,,,"At OD 0.1, 5 times the volume was plated as compared to OD 0.5. ",,,,,
+,,,,,"Cheater-Cheater culture reached OD 0.5, but at a later time. Hence, its relative fitness was derived from the time it took to reach OD 0.5, relative to the ancestor.",,,,,
